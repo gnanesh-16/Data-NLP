@@ -122,17 +122,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[![License: MIT](https://github.com/gnanesh-16/Data-NLP/blob/main/LICENSE)](http://www.apache.org/licenses/)
   <a href="https://github.com/gnanesh-16/Data-NLP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/gnanesh-16/Data-NLP" alt="License: MIT Verified"></a>
 
 <!-- Flow-MOdel-NLP-->
 ## flow-model-nlp
 ![Steps_in_NLP (2)](https://github.com/gnanesh-16/Data-NLP/assets/98212179/b7591bb6-2e72-4154-bf10-73cbe66f2b11)
 
-
-
-![flow-model-nlp_2]()
-
-
-
-
+                                   Thank You, We appreciate your support and look forward to your contributions! 🙌
