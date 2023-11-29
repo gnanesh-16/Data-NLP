@@ -1,0 +1,7 @@
+nlp
+nltk
+-U pip setuptools wheel
+-U spacy
+python -m spacy download en_core_web_sm
+nltk.download('average_perceptron_tagger')
+nltk.download('maxent_ne_chunker')
