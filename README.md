@@ -85,7 +85,7 @@ Thank you for considering contributing to [Data-NLP! Contributions are welcome a
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine:
     ```bash
-    git clone https://github.com/gnanesh-16/Data-NLP.git[Data-NLP].git
+    git clone https://github.com/gnanesh-16/Data-NLP.git
     ```
 3. Create a new branch for your contribution:
     ```bash
@@ -122,7 +122,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/apache/.github/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-Apache-2.0-yellow.svg)](http://www.apache.org/licenses/)
 
 
 <!-- Flow-MOdel-NLP-->
