@@ -128,4 +128,4 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## flow-model-nlp
 ![Steps_in_NLP (2)](https://github.com/gnanesh-16/Data-NLP/assets/98212179/b7591bb6-2e72-4154-bf10-73cbe66f2b11)
 
-                                   Thank You, We appreciate your support and look forward to your contributions! 🙌
+                                 
